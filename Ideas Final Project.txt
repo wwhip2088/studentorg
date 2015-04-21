@@ -1,11 +1,19 @@
 1. Have background be alternating images of AEPi and Sigma
 2. Ask about the issue with highlighting the navbar
 3. Figure out why it's giving me problems with scrolling when I don't want it to
+4. Switch About page to just be an about page and the who we are page to be part    of meet us
+5. Add Rush Aepi could be another aspect
+6. Include testimonials for work samples (brother/alumni spotlights)
+7. Find pledge book and look that stuff up. 
 
 2011 - 960 X 551
 2012 - 604 X 401
 2013 - 1500 X 571
 2014 - 960 X 640
+
+825 X 472.5
+
+
 
 
 1.74 : 1
