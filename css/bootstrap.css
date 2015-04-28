@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=233a4cb88ce4e0aa8fb8)
- * Config saved to config.json and https://gist.github.com/233a4cb88ce4e0aa8fb8
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=4e3b815134d240587715)
+ * Config saved to config.json and https://gist.github.com/4e3b815134d240587715
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -4858,20 +4858,20 @@ a.badge:focus {
 .jumbotron {
   padding: 30px 15px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: #eeeeee;
+  color: #fff000;
+  background-color: #000080;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: #ffff00;
 }
 .jumbotron p {
-  margin-bottom: 0px;
+  margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
 }
 .jumbotron > hr {
-  border-top-color: #d5d5d5;
+  border-top-color: #00004d;
 }
 .container .jumbotron,
 .container-fluid .jumbotron {
